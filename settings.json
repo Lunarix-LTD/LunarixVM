@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "starttimeout": 4000,
+  "overdownloadtry": 5,
+  "network-adapter": "-net nic,model=e1000",
+  "qemu": "qemu-system-x86_64",
+  "runbackground": "-nographic",
+  "ip": "",
+  "windowsgraphic": "-vga vmware",
+  "network": "-nic",
+  "overstatustry": 1,
+  "serverurl": "localhost:8080",
+  "servertoken": "nfh2texeqnpvg5dz9oqcwrqwfgvpknxc",
+  "statusupdate": 7000,
+  "diskupdate": 30000
+}
