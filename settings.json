@@ -1,0 +1,34 @@
+{
+  "register": {
+    "status": true,
+    "time": "5"
+  },
+  "owner": {
+    "mail": "a@a.ru",
+    "password": "123456"
+  },
+  "panelinfo": {
+    "version": "1.0.0",
+    "apikey": "zoxh2arv2q",
+    "name": "o"
+  },
+  "posttojson": {
+    "limit": "3",
+    "parameter": 20000
+  },
+  "ddosprotect": {
+    "status": true,
+    "limit": "10",
+    "time": "100",
+    "removeban": 600000
+  },
+  "socketprotect": {
+    "limit": 9,
+    "time": 10000
+  },
+  "socketipchange": true,
+  "port": 80,
+  "gillsocket": 8080,
+  "socketip": "http://localhost:8080",
+  "sessionsecret": "1"
+}

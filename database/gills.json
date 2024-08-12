@@ -1,0 +1,62 @@
+{
+  "gills": [
+    {
+      "name": "test",
+      "disk": "10000",
+      "cpu": "100",
+      "ram": "2000",
+      "ports": [
+        {
+          "port": "1",
+          "panelport": "1"
+        },
+        {
+          "port": "2",
+          "panelport": "2"
+        },
+        {
+          "port": "3",
+          "panelport": "3"
+        },
+        {
+          "port": "4",
+          "panelport": "4"
+        },
+        {
+          "port": "5",
+          "panelport": "5"
+        }
+      ],
+      "ip": "localhost",
+      "token": "j637isk2sjerrt9yematec300i5miidez"
+    }
+  ],
+  "test-database": {
+    "disk": 10000,
+    "cpu": 100,
+    "ram": 2000,
+    "vnc": 0,
+    "ports": [
+      {
+        "port": "1",
+        "panelport": "1"
+      },
+      {
+        "port": "2",
+        "panelport": "2"
+      },
+      {
+        "port": "3",
+        "panelport": "3"
+      },
+      {
+        "port": "4",
+        "panelport": "4"
+      },
+      {
+        "port": "5",
+        "panelport": "5"
+      }
+    ]
+  }
+}
